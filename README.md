@@ -1,4 +1,4 @@
-# Atto TS Example
+# Proof of concept for frontend things.
 
 Example of using my minimal functional reactive library for making a simple app using HTML.
 

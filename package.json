@@ -12,7 +12,5 @@
   "devDependencies": {
     "typescript": "^5.5.3"
   },
-  "dependencies": {
-    "femto-ts": "^0.0.6"
-  }
+  "dependencies": {}
 }
